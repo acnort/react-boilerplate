@@ -1,6 +1,6 @@
 # React Boilerplate
 
 ### Featuring
-Babel
-Webpack
-React Router
+- Babel
+- Webpack
+- React Router
