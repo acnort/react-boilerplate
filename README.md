@@ -1,1 +1,6 @@
-# stock-balance
+# React Boilerplate
+
+### Featuring
+Babel
+Webpack
+React Router
