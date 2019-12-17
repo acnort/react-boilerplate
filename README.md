@@ -10,5 +10,6 @@ Run the above command to test the application
 - Babel
 - Webpack
 - React Router
+- Styled Components
 - Eslint
 - Jest
