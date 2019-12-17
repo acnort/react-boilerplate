@@ -1,5 +1,5 @@
 {
-  "name": "stock-balance",
+  "name": "react-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acnort/stock-balance.git"
+    "url": "git+https://github.com/acnort/react-boilerplate.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/acnort/stock-balance/issues"
-  },
-  "homepage": "https://github.com/acnort/stock-balance#readme",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
