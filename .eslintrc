@@ -1,6 +1,10 @@
 {
   "parser": "babel-eslint",
   "extends": ["airbnb"],
+  "plugins": ["jest"],
+  "env": {
+    "jest/globals": true
+  },
   "globals": {
     "document": true
   },
@@ -8,6 +12,7 @@
     "react/jsx-filename-extension": [ 1, { "extensions": [".js", ".jsx"] } ],
     "react/prefer-stateless-function": "off",
     "import/prefer-default-export": "off",
+    "import/no-extraneous-dependencies": "off",
     "jsx-quotes": "off",
     "semi": "off"
   }
